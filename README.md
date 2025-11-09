@@ -57,6 +57,7 @@ Sunny_Latest_Dashboard.pbix	Power BI project file
 Sales_Data.xlsx	Raw sales dataset
 README.md	Project documentation (this file)
 Dashboard_Screenshot.png	Image preview of the dashboard
+
 🧠 Insights
 
 Delhi and Hyderabad contribute the highest sales volumes.
@@ -66,3 +67,4 @@ Head Phones and Mobile Phones are the top-selling categories.
 Card payments dominate the payment mix.
 
 Cities like Pune and Bangalore show growth opportunities for improvement.
+
