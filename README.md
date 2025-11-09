@@ -57,6 +57,7 @@ Sunny_Latest_Dashboard.pbix	Power BI project file
 Sales_Data.xlsx	Raw sales dataset
 README.md	Project documentation (this file)
 Dashboard_Screenshot.png	Image preview of the dashboard
+https://github.com/Sunny279k/powerbi-sales-analysis/blob/main/Screenshot%202025-11-09%20123940.png
 
 🧠 Insights
 
